@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Love</string>
+    <string name="text_chaomung">Chào mừng bạn đến với \n Phần mềm yêu thương trực tuyến... </string>
+    <string name="text_hint">Nhập email để nhận thông tin yêu thương ;)</string>
+    <string name="text_button">Nhấn vào để xem</string>
+
+</resources>
